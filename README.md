@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm a **GIS Student at Universitas Gadjah Mada**
 
-- ⚡ Fun fact **I wanna become more stoic**
+- ⚡ Fun fact **I wanna be more stoic**
 
 
 <h3 align="left">Languages and Tools:</h3>
