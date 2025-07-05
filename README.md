@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nisa Amelia</h1>
 <h3 align="center">I'm a learner!!!</h3>
 
-- 🌱 I’m currently learning more about **data analysis and web development**
+- 🌱 I’m currently learning more about **data analysis**
 
 - 👨‍💻 I'm a **GIS Student**
 
